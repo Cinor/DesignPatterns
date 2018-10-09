@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "觀察者模式(Observer Pattern)", "ConsoleApp2\觀察者模式(Observer Pattern).csproj", "{2EF5ADCF-F501-4F18-8B94-470D62C21AE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "觀察者模式2(Observer Pattern)", "觀察者模式2\觀察者模式2(Observer Pattern).csproj", "{02858925-0819-4A20-B235-9E08F43AD2F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "策略模式(Strategy Pattern)", "策略模式(Strategy Pattern)\策略模式(Strategy Pattern).csproj", "{5D491703-3F2F-4F5C-BCED-431AC36E92F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "裝飾者模式 (Decorate Pattern)", "裝飾者模式 (Decorate Pattern)\裝飾者模式 (Decorate Pattern).csproj", "{559B672B-048A-4AFA-A99C-199FEB69D45E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "簡單工廠模式 (Simple Factory Pattern)", "簡單工廠模式 (Simple Factory Pattern)\簡單工廠模式 (Simple Factory Pattern).csproj", "{976E3626-2EA1-4391-950A-7CC83AB3F243}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "抽象工廠模式(Abstract Factory Pattern)", "抽象工廠模式(Abstract Factory Pattern)\抽象工廠模式(Abstract Factory Pattern).csproj", "{65515850-5C39-4980-8FFE-CD8496800F28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "命令模式 (Command Pattern)", "命令模式 (Command Pattern)\命令模式 (Command Pattern).csproj", "{E5C85199-E624-48C6-A795-F1C888E2EDCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EF5ADCF-F501-4F18-8B94-470D62C21AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF5ADCF-F501-4F18-8B94-470D62C21AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF5ADCF-F501-4F18-8B94-470D62C21AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF5ADCF-F501-4F18-8B94-470D62C21AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02858925-0819-4A20-B235-9E08F43AD2F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02858925-0819-4A20-B235-9E08F43AD2F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02858925-0819-4A20-B235-9E08F43AD2F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02858925-0819-4A20-B235-9E08F43AD2F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D491703-3F2F-4F5C-BCED-431AC36E92F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D491703-3F2F-4F5C-BCED-431AC36E92F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D491703-3F2F-4F5C-BCED-431AC36E92F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D491703-3F2F-4F5C-BCED-431AC36E92F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{559B672B-048A-4AFA-A99C-199FEB69D45E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{559B672B-048A-4AFA-A99C-199FEB69D45E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{559B672B-048A-4AFA-A99C-199FEB69D45E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{559B672B-048A-4AFA-A99C-199FEB69D45E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{976E3626-2EA1-4391-950A-7CC83AB3F243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{976E3626-2EA1-4391-950A-7CC83AB3F243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{976E3626-2EA1-4391-950A-7CC83AB3F243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{976E3626-2EA1-4391-950A-7CC83AB3F243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65515850-5C39-4980-8FFE-CD8496800F28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65515850-5C39-4980-8FFE-CD8496800F28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65515850-5C39-4980-8FFE-CD8496800F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65515850-5C39-4980-8FFE-CD8496800F28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5C85199-E624-48C6-A795-F1C888E2EDCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5C85199-E624-48C6-A795-F1C888E2EDCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5C85199-E624-48C6-A795-F1C888E2EDCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5C85199-E624-48C6-A795-F1C888E2EDCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F749F951-5940-4205-A3AE-E3D329043609}
+	EndGlobalSection
+EndGlobal
